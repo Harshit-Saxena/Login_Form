@@ -5,12 +5,5 @@ router.get('/', (req, res) => {
     res.render('Welcome')
 })
 
-
-
-
-
-
-
-
-
+//* Module Export*
 module.exports = router;
